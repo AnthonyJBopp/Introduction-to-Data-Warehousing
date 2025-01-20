@@ -1,6 +1,6 @@
 # Introduction to Data Warehousing
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpregismond%2Fintroduction-to-data-warehousing&label=Visitors&countColor=%230d76a8&style=flat&labelStyle=none)
+warehousing&label=Visitors&countColor=%230d76a8&style=flat&labelStyle=none)
 [![License](https://img.shields.io/badge/License-Apache_2.0-0D76A8?style=flat)](https://opensource.org/licenses/Apache-2.0)
 [![PostgreSQL 13.2](https://img.shields.io/badge/PostgreSQL-13.2-green?style=flat&logo=postgresql&logoColor=white)](https://shields.io/)
 [![Cognos Analytics 12.0.3](https://img.shields.io/badge/Cognos_Analytics-12.0.3-green?style=flat&logo=ibm&logoColor=white)](https://shields.io/)
