@@ -514,7 +514,7 @@ End of assignment.
 
 | Date (YYYY-MM-DD) | Version | Changed By | Change Description |
 |---|---|---|---|
-| 2024-06-08 | 0.2 | Pravin Regismond | Modified to fulfill assignment requirements |
-| 2022-04-13 | 0.1 | D.M.Naidu, Niveditha | converted Initial Version to postgres and Cognos workaround |
+| 2025-01-20 | 0.2 | Anthony J. Bopp | Modified to fulfill assignment requirements |
+| 2025-01-20 | 0.1 | Anthony J. Bopp | converted Initial Version to postgres and Cognos workaround |
 
 Copyright © 2021 IBM Corporation. All rights reserved.
