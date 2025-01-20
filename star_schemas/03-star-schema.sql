@@ -1,7 +1,7 @@
 --
 -- SCRIPT: 03-star-schema.sql
--- AUTHOR: Pravin Regismond
--- DATE: 2024-06-09
+-- AUTHOR: Anthony J. Bopp
+-- DATE: 1/20/2025 
 -- DESCRIPTION: Exercise 3 - Load data into the Data Warehouse
 --              - Create tables DimDate, DimStation, DimTruck, and FactTrips
 --
